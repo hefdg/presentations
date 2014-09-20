@@ -1,0 +1,33 @@
+/*.reveal table tfoot 
+{
+	font-size: 0.6em;
+	line-height: 0.9em;
+}
+.reveal table tfoot ul, small ul
+{
+	padding-top:1em;
+}
+.reveal table
+{
+	width:100%;
+}
+.reveal ul.three-column li
+{
+	width:30%;
+	float: left;
+	margin-left:2%;
+}*/
+img.cohesion-force
+{
+	position:absolute;
+	top:0;
+	left:0;
+	border:0;
+}
+img.hefdg
+{
+	position:absolute;
+	top:0;
+	right:0;
+	border:0;
+}
